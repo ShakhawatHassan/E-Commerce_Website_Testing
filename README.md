@@ -1,1 +1,2 @@
-# Websiteproject
+A bunch of Ecommerce sites were given. 
+This project was done by developing 10 user stories from the application, writing test cases for the user stories using Gherkins, and developing a test framework using the following technology such as Maven, Git, TestNG, Cucumber, Page Object Model (POM). Once these procedures followed, this project ran all the test cases from Jenkins and later all the positive results came out. JAVA was used as a programing language. And this project was created by following SDLC methodology.
